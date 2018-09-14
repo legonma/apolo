@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color:white !important;
+}
+
+.navigation {
+    background-color: black;
+}
+
+.navigation_Link, .navigation_Link_Close {
+    padding: 8px;
+}
+
+.navigation_Link_Close {
+    float: right !important;
+}
